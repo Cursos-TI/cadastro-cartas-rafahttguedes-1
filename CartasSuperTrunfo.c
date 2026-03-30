@@ -8,7 +8,7 @@ int main() {
     int populacao1;
     float area1;
     float pib1;
-    int pontosTuristicos01;
+    int pontosTuristicos1;
 
     // Dados da carta 2
     char estado2;
